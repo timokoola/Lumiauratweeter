@@ -26,6 +26,9 @@ pip-log.txt
 .tox
 nosetests.xml
 
+#twitter tokens 
+keys.keys
+
 # Translations
 *.mo
 
